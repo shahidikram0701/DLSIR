@@ -54,7 +54,7 @@ Here the models labelled as SA1, SA2 and DSA refer to models which are different
 ## How to run the project
 
 To start with,
-Download the weights of the pretrained models from [here](),  and save the folder in the same directory as the other files of this repo.
+download the weights of the pretrained models from [here](https://mega.nz/#F!zow0XCRT!xlSu9UGgAKO56gszuTQkdQ),  and save the folder in the same directory as the other files of this repo.
 
 Now the base directory will have 3 subdirs which are namely:
   1.	DLSIR_demo: contains the code for the final GUI demo
@@ -65,7 +65,7 @@ In order to run the DLSIR_demo the steps to follow are:
   1.	Run download_data.py
   2.	Run inception_features_saving_to_disk.py
   3.	Run cache_image_embeddings.py
-  4.	Run predictions.py and server.py as two separate processes
+  4.	Run predictions.py and server.py as two separate simultaneous processes
   5.	Go to 0.0.0.0:5000 to see the application running
   
 ### Developers:
