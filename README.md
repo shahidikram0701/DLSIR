@@ -39,7 +39,7 @@ Listed below are all the experiments we conducted so far:
     
 ## Results
 
-![project results](/metrics/results.png)
+![](/metrics/results.JPG)
 
 In the models column, each model has been named in the following format:
 
