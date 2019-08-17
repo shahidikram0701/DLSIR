@@ -60,6 +60,7 @@ Now the base directory will have 3 subdirs which are namely:
   1.	DLSIR_demo: contains the code for the final GUI demo
   2.	DLSIR_model_training_experiments: contains several colab notebooks where different experiments where trained and the model weights were saved.
   3.	DLSIR_model_weights: contains several model weights for the various models which were trained.
+  4.  DLSIR_report: this is the project report which entails all the architectural details and training details in detail.
 
 In order to run the DLSIR_demo the steps to follow are:
   1.	Run download_data.py
